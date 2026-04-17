@@ -2,6 +2,8 @@ import numpy as np
 
 ########################################
 #  Numerical Methods                   #
+#  Engr. Mary Christianne Edjan        #
+#                                      #
 #  Numerical Differentiation           #
 #  Python Code                         #
 ########################################
